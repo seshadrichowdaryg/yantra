@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata - 2023. The repository holds our thought process behind the solution for the Kata - Road warrior App/Web - and propose an architecture satisfying Road warrior's goals.	
+Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata - 2023. The repository holds our thought process behind the solution for the Kata - Road warrior App/Web - and proposal of an architecture satisfying Road warrior's goals.	
 
 ## Problem Analysis
 
