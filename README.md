@@ -34,5 +34,3 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 One of the useful features we thought of was adding a capability in the app to send recomandations about discount, nice places to stay and recomanded hotels, Airline and car services.
  
-## Finals Video Presentation 
-[![Watch the video](./assets/video.png)]()
