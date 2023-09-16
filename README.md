@@ -12,7 +12,7 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 * [Use cases and Requirements](./problem/requirements.md)
 
-* [Assumptions](./problem/Assumptions.md)
+* [Assumptions](./adr/README.md)
  
 ## Architecture 
 
