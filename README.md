@@ -17,15 +17,11 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 * [Actors, Actions, and Significant Possibilities](./solution/actors.md)
 
-* [Architecture Breakdown](./solution/archBreakdown.md)
+* [Architecture Breakdown](./solution/README.md)
 
-* [High-level Architecture](./solution/High_Level_Architecture.md)
+* [High-level Architecture](./solution/Update technical-view-exploration.md)
 
-* [Comprehensive Architecture](./solution/services)
-
-* [Security](./solution/Security.md)
-
-* [Deployment](./solution/Deployment.md)
+* [Deployment](./solution/deployment.md)
 
 * [Architectural Decision Records (ADRs)](./ADRs)
 
