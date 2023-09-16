@@ -8,9 +8,9 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 ## Problem Analysis
 
-* [Overview and Problem Statement](./problem/Background.md)
+* [Overview and Problem Statement](./problem/problem-statement.md)
 
-* [Business Drivers, Goals and Requirements](./problem/Business_Requirements.md)
+* [Business Drivers, Goals and Requirements](./problem/requirements.md)
 
 * [Assumptions](./problem/Assumptions.md)
  
