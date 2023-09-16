@@ -19,7 +19,7 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 * [Architectural Decision Records (ADRs)](./ADR/README.md)
 
-* [Actors and Actions](./solution/actors.md)
+* [Actors and Actions](./solution/usecases.md)
 
 * [High-level Architecture](./solution/technical-view-exploration.md)
 
