@@ -31,8 +31,7 @@ The following are the use cases for the application between the three main actor
 * Gather Analytical Data - Agency can view insights and reports of trips.
 
 ## Use case diagram 
-
-[Use case](./assert/usecase.png)
+![Use case](../assets/usecase.png)
 
 # Architecture Characteristics
 
