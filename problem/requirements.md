@@ -30,6 +30,10 @@ The following are the use cases for the application between the three main actor
 * Allow API Access (Interface with Agencies) - Agent can approve API access from the Road Warrior system.
 * Gather Analytical Data - Agency can view insights and reports of trips.
 
+## Use case diagram 
+
+[Use case](./assert/usecase.png)
+
 # Architecture Characteristics
 
 ## Availability 
