@@ -15,7 +15,7 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
  
 ## Architecture 
 
-* [Actors, Actions, and Significant Possibilities](./solution/use_cases_actors.md)
+* [Actors, Actions, and Significant Possibilities](./solution/actors.md)
 
 * [Architecture Breakdown](./solution/archBreakdown.md)
 
