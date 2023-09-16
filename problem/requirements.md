@@ -14,6 +14,7 @@ The following are the use cases for the application between the three main actor
 * Allow Specific Users to View the Trip - Users can share a link to the trip dashboard which is accessible as a view only mode to selected users decided by the user who shares.
 * Integrate with Prefered Travel Agency - User will be able to chat or communicate over mail with a travel agent she chooses.
 
+
 ### System Actor Use Cases
 
 * Poll Email - The system polls the email provider to scan for travel related information.
@@ -24,11 +25,13 @@ The following are the use cases for the application between the three main actor
 * Present Travel Trip Updates - The system notifies the user on changes and updates to their trip.
 * Delete Past Trips - The system automatically removes older trips from the dashboard.
 
+
 ### Agent/Agency
 * Login/Registration - Agencies have a separate login into the system.
 * Integrate with Prefered Travel Agent - Agent who is chosen as a preferred agent can respond to user queries through an authentication interface either through chat or email.
 * Allow API Access (Interface with Agencies) - Agent can approve API access from the Road Warrior system.
 * Gather Analytical Data - Agency can view insights and reports of trips.
+
 
 ## Use case diagram 
 ![Use case](../assets/usecase.png)
