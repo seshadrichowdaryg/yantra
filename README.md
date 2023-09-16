@@ -15,15 +15,16 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
  
 ## Architecture 
 
-* [Actors, Actions, and Significant Possibilities](./solution/actors.md)
-
 * [Architecture Breakdown](./solution/README.md)
+
+* [Architectural Decision Records (ADRs)](./ADR/README.md)
+
+* [Actors and Actions](./solution/actors.md)
 
 * [High-level Architecture](./solution/technical-view-exploration.md)
 
 * [Deployment](./solution/deployment.md)
 
-* [Architectural Decision Records (ADRs)](./ADR/README.md)
 
 ## Future Roadmap
 
