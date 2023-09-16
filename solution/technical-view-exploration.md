@@ -2,7 +2,10 @@
 
 ## Architecture 
 
-![Architecture](./assets/High_level.png.png)
+![Architecture](../assets/High_level.png)
 
-## AWS Components which can suite some of the Architecture Requirements
+## Components which can suite some of the Architecture Requirements
 ![AWS Components which can suite some of the Architecture Requirements](../assets/Deployment_1.png)
+
+## AWS 
+![AWS](../assets/Deployment_aws.png)
