@@ -19,7 +19,7 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 * [Architecture Breakdown](./solution/README.md)
 
-* [High-level Architecture](./solution/Update technical-view-exploration.md)
+* [High-level Architecture](./solution/technical-view-exploration.md)
 
 * [Deployment](./solution/deployment.md)
 
