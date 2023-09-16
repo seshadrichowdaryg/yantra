@@ -23,7 +23,7 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 * [Deployment](./solution/deployment.md)
 
-* [Architectural Decision Records (ADRs)](./ADRs)
+* [Architectural Decision Records (ADRs)](./ADRs/README.md)
 
 ## Future Roadmap
 
