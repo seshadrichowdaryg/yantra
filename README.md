@@ -32,5 +32,5 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 ## Future Roadmap
 
-One of the useful features we thought of was adding a capability in the app to send recomandations about discount, nice places to stay and recomanded hotels, Airline and car services.
+One of the useful features we thought of was adding a capability in the app to send recomendations about discount, nice places to stay and recomended hotels, Airline and car services.
  
