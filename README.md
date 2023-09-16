@@ -10,7 +10,7 @@ Welcome to Team Yantra's solution repository for the O'Reilly Architectural Kata
 
 * [Overview and Problem Statement](./problem/problem-statement.md)
 
-* [Use cases and Requirements](./problem/requirements.md)
+* [Use cases and Requirements with Architectural Characteristics](./problem/requirements.md)
 
  
 ## Architecture 
